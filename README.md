@@ -30,9 +30,11 @@ When I am not developing websites/web apps I work with
 
 ## :speaker:	 Speaking Engagement
 
-- GDG Eket Flutter Festival, 2022 - Getting Started with Flutter
-- DSC AKSU 2018 - Introduction to Git & Github
 - ICT SAED, Enugu State NYSC Orientation Camp 2022 - Introduction to Web Development
+- GDG Eket Flutter Festival, 2022 - Getting Started with Flutter
+- Africinnovate Eket, Get Skilled Up, 2019 - Introduction to Web Development
+- DSC AKSU 2018 - Introduction to Git & Github
+
 
 ## :fire: :sparkles: Community Volunteering at
 
