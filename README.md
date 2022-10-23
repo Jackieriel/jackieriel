@@ -25,11 +25,13 @@ When I am not developing websites/web apps I work with
 - WordPress
 
 ## :dart: Work Experience
+- Office Assistant @Ministry of Chieftaincy Matters Enugu State Secretariat 2021 - date
 - Lead IT anali @Evisiondatamind International 2021 - date
 - Freelance Web Developer @ JackierielSoft 2021 - date
 
 ## :speaker:	 Speaking Engagement
 
+- NACC Enugu, 2021 Batch Sendforth - Starting a career in tech
 - ICT SAED, Enugu State NYSC Orientation Camp 2022 - Introduction to Web Development
 - GDG Eket Flutter Festival, 2022 - Getting Started with Flutter
 - Africinnovate Eket, Get Skilled Up, 2019 - Introduction to Web Development
