@@ -14,6 +14,7 @@ I love developing websites/ web  applications using
 - Bootstrap
 - PHP
 - Laravel
+- Yii2
 
 ## :sparkles: I also design with 
 When I am not developing websites/web apps I work with
